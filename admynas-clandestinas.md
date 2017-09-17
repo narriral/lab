@@ -23,23 +23,19 @@ Ni siempre hay una forma de reaccionar inmediatamente o se conoce lo que pasó d
 
 ### El caso reciente del Autistici:
 >"Ayer, jueves 14 de Septiembre, hemos descubierto hace unos dias que una cuenta de administracion de nuestra infraestructura habia sido violada. En cuanto nos hemos dado cuenta hemos empezado a trabajar para resolver el problema. Hemos tomados las medidas de mitigacion necesarias y hemos puesto en seguridad las maquinas. Estamos todavia analizando los logs y reinstalando la infraestructura.
-
-Estamos tambien examinando los detalles de la situacion para averiguar lo que ha ocurrido. Dada la naturaleza de la violacion, los intrusos han tenido acceso a todos los datos de los usuarios, pero en este momento no tenemos pruebas de que hayan tocado las cuentas de correo.
-
-Como medida minima de seguridad, tienes que cambiar las contrasenas y las preguntas de seguridad de todas tus cuentas (email, webdav, listas de correo y newsletters, noblogs.org). Te recomendamos de crear contrasenas fuertes:
+ 
+ (...)
+ 
+>Como medida minima de seguridad, tienes que cambiar las contrasenas y las preguntas de seguridad de todas tus cuentas (email, webdav, listas de correo y newsletters, noblogs.org). Te recomendamos de crear contrasenas fuertes:
 <https://ssd.eff.org/es/module/creando-contrase%C3%B1as-seguras>. Tambien te recomendamos, si no lo has hecho todavia, activar la autenticacion de dos factores (2FA):
-<https://www.autistici.org/docs/2FA>.
-Si ya tenias la autenticacion de dos factores habilitada, tendras que resetearla, deshabilitandola y volviendo a habilitarla. 
-
-Si puedes, descargate siempre los mensajes de tu correo en tu ordenador personal, y guardalos con cuidado, en vez de dejarlos en nuestros servidores. También recuerdate de cifrar tus comunicaciones:
-correo: <https://www.autistici.org/docs/mail/privacymail#3>
-chat: <https://ssd.eff.org/es/module/comunic%C3%A1ndote-con-otros>"
+<https://www.autistici.org/docs/2FA>."
 
 
 ### Servidor administrado x Servidor propio
 En el primero hay que confiar en una empresa o colectiva o grupo que maneja la estructura para ti, ofreciendo los "servicios" listos para uso y haciendo la manutención.
 
 En el segundo - servidor propio - tu eres la responsable por hacer todo el trabajo de administración de la estructura. En este caso, Vedetas, Kéfir y Cl4ndestinas son servidoras con administración propia, pero en el caso de Vedetas y Cl4ndestina las máquinas están en otras partes del mundo y son manejadas por otras personas. Por eso es importante elegir bien donde está la máquina o las máquinas y cual es la posición política de la gente que maneja el hardware.
+
 
 ### Proyectos activistas x Comerciales
 
