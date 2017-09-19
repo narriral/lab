@@ -58,15 +58,15 @@ Ni siempre hay una forma de reaccionar inmediatamente o se conoce lo que pasó d
 
 ## Proyectos activistas x Comerciales
 
-> __¡Algunos servicios no funcionan! ¡Esto es inadmisible!__
+"__¡Algunos servicios no funcionan! ¡Esto es inadmisible!__
 
 
->Lo sentimos. Pero si crees que es inadmisible, ¡te recomendamos utilizar un servidor diferente! Nuestro grupo siempre intenta hacer lo mejor que puede para mantener todo funcionando, pero como ya deberías haber entendido, no se nos paga por este servicio y a veces los problemas son difíciles de resolver. Confía en nosotros, danos un poco más de tiempo, y esperamos mejorar nuestros servicios siempre un poco más. Lo que también será posible gracias a tus donaciones.
+Lo sentimos. Pero si crees que es inadmisible, ¡te recomendamos utilizar un servidor diferente! Nuestro grupo siempre intenta hacer lo mejor que puede para mantener todo funcionando, pero como ya deberías haber entendido, no se nos paga por este servicio y a veces los problemas son difíciles de resolver. Confía en nosotros, danos un poco más de tiempo, y esperamos mejorar nuestros servicios siempre un poco más. Lo que también será posible gracias a tus donaciones."
 
-> __Os he escrito un correo hace más de una semana y aún no me habéis contestado. ¿Por qué?__
+"__Os he escrito un correo hace más de una semana y aún no me habéis contestado. ¿Por qué?__
 
 
-Administrar este proyecto lleva tiempo, pero no es como un trabajo (no nos pagan por hacerlo): por eso puedes recibir una respuesta 10 minutos o 10 días después de habernos enviado un mensaje. Esto puede depender del clima o de una invasión de langostas: ¡nunca se sabe!
+Administrar este proyecto lleva tiempo, pero no es como un trabajo (no nos pagan por hacerlo): por eso puedes recibir una respuesta 10 minutos o 10 días después de habernos enviado un mensaje. Esto puede depender del clima o de una invasión de langostas: ¡nunca se sabe!"
 
 _Fuente: F.A.Q del A/I - Autistici Inventati Colectivo_
 
