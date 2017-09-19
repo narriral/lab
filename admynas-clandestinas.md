@@ -10,6 +10,8 @@ Nuestra idea es enfocarnos solamente en alojamiento de sitios estáticos y diná
 Creemos que hay pocas iniciativas en la región y que podemos colaborar más con la comunidad, desde un sentido de cuidado a largo plazo y aprendizaje constante con el manejo de las tecnologías digitales. Además, como feministas, habitantes y creadoras de espacios digitales, internet nos parece un lugar potente y bastante entretenido para no experimentarlo al máximo. :)
 
 
+# Servidoras
+
 ### Qué es una servidora web?
 La principal función de un servidor Web es almacenar los archivos de un sitio y emitirlos por Internet para poder ser visitado por las personas. Básicamente, un servidor Web es una gran computadora que guarda y transmite datos vía el sistema de redes llamado Internet. Cuando una persona entra en una página de Internet, su navegador se comunica  con el servidor enviando y recibiendo datos que determinan qué es lo que ve en la pantalla.
 
@@ -24,7 +26,7 @@ En el segundo - servidor propio - tu eres la responsable por hacer todo el traba
 
 
 
-# Qué hace una administradora de sistemas/"sysadmina":
+### Qué hace una administradora de sistemas/"sysadmina":
 
 - Evalua, elige y configura maquinas que van a recibir herramientas, proyectos, etc;
 - Define los protocolo de acceso, seguridad y privacidad y los principios bajo lo que todo va a funcionar;
@@ -71,7 +73,7 @@ Cuando elegimos un servicio activista:
 
 
 
-# En Cl4ndestina
+### En Cl4ndestina
 Proceso de nuestra reunión de planes, conceptos y sueños ;)
 
 ![](https://i.imgur.com/hzCIbxC.jpg)
