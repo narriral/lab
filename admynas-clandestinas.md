@@ -1,13 +1,13 @@
 
 ![](https://i.imgur.com/FpXIEjV.jpg)
-### Qué es Clandestina?
+## Qué es Clandestina?
 La idea empieza en 2016 con amigas que tenían intereses comunes en ofrecer herramientas y espacio para alojamiento de sitios web feministas en Latinoamérica.
 
 
 También estuvimos involucradas en otras iniciativas similares en Brasil, como la servidora Vedetas, donde aprendimos mucho participando en formaciones y igual colaborando en otros tipos de procesos.
 
 
-### Por qué?
+## Por qué?
 Nuestra idea es enfocarnos solamente en alojamiento de sitios estáticos y dinámicos para proyectos feministas en Latinoamérica y ser más una semilla en el ecosistema de servidoras y infraestructura feminista desde el Sur.
 
 
@@ -15,7 +15,7 @@ Creemos que hay pocas iniciativas en la región y que podemos colaborar más con
 
 
 
-# Un poco sobre servidoras
+## Un poco sobre servidoras
 
 ![](https://media0.giphy.com/media/l41m1CuaT5Oy624Ra/giphy.gif) 
 
@@ -60,7 +60,7 @@ Ni siempre hay una forma de reaccionar inmediatamente o se conoce lo que pasó d
 
 
 
-### Proyectos activistas x Comerciales
+## Proyectos activistas x Comerciales
 
 > ¡Algunos servicios no funcionan! ¡Esto es inadmisible!
 >Lo sentimos. Pero si crees que es inadmisible, ¡te recomendamos utilizar un servidor diferente! Nuestro grupo siempre intenta hacer lo mejor que puede para mantener todo funcionando, pero como ya deberías haber entendido, no se nos paga por este servicio y a veces los problemas son difíciles de resolver. Confía en nosotros, danos un poco más de tiempo, y esperamos mejorar nuestros servicios siempre un poco más. Lo que también será posible gracias a tus donaciones.
@@ -85,7 +85,7 @@ Cuando elegimos un servicio activista:
 
 
 
-### En Cl4ndestina
+## En Cl4ndestina
 Proceso de nuestra reunión de planes, conceptos y sueños ;)
 
 ![](https://i.imgur.com/hzCIbxC.jpg)
