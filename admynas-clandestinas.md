@@ -1,13 +1,28 @@
 
 ![](https://i.imgur.com/FpXIEjV.jpg)
-# Qué es Clandestina?
+### Qué es Clandestina?
 La idea empieza en 2016 con amigas que tenían intereses comunes en ofrecer herramientas y espacio para alojamiento de sitios web feministas en Latinoamérica.
 También estuvimos involucradas en otras iniciativas similares en Brasil, como la servidora Vedetas, donde aprendimos mucho participando en formaciones y igual colaborando en otros tipos de procesos.
 
 
-# Por qué?
+### Por qué?
 Nuestra idea es enfocarnos solamente en alojamiento de sitios estáticos y dinámicos para proyectos feministas en Latinoamérica y ser más una semilla en el ecosistema de servidoras y infraestructura feminista desde el Sur.
 Creemos que hay pocas iniciativas en la región y que podemos colaborar más con la comunidad, desde un sentido de cuidado a largo plazo y aprendizaje constante con el manejo de las tecnologías digitales. Además, como feministas, habitantes y creadoras de espacios digitales, internet nos parece un lugar potente y bastante entretenido para no experimentarlo al máximo. :)
+
+
+### Qué es una servidora web?
+La principal función de un servidor Web es almacenar los archivos de un sitio y emitirlos por Internet para poder ser visitado por las personas. Básicamente, un servidor Web es una gran computadora que guarda y transmite datos vía el sistema de redes llamado Internet. Cuando una persona entra en una página de Internet, su navegador se comunica  con el servidor enviando y recibiendo datos que determinan qué es lo que ve en la pantalla.
+
+
+### Servidor DNS (Sistema de nombres de domínios)
+Es el servidor responsable por gestionar las direcciones en la web. Este sistema asocia información variada con nombre de dominio asignado a cada uno de los participantes. Su función más importante es "traducir" nombres inteligibles para las personas en identificadores binarios asociados con los equipos conectados a la red, esto con el propósito de poder localizar y direccionar estos equipos mundialmente.
+
+### Servidor administrado x Servidor propio
+En el primero hay que confiar en una empresa o colectiva o grupo que maneja la infraestructura para ti, ofreciendo los "servicios" listos para uso y haciendo la manutención.
+
+En el segundo - servidor propio - tu eres la responsable por hacer todo el trabajo de administración de la infraestructura. En este caso, Vedetas, Kéfir y Cl4ndestinas son servidoras con administración propia que ofrecen espacios para otras personas. Se puede tener el control fisico sobre la maquinas, aunque eso es un custo bastante alto. 
+
+
 
 # Qué hace una administradora de sistemas/"sysadmina":
 
@@ -29,12 +44,6 @@ Ni siempre hay una forma de reaccionar inmediatamente o se conoce lo que pasó d
 >Como medida minima de seguridad, tienes que cambiar las contrasenas y las preguntas de seguridad de todas tus cuentas (email, webdav, listas de correo y newsletters, noblogs.org). Te recomendamos de crear contrasenas fuertes:
 <https://ssd.eff.org/es/module/creando-contrase%C3%B1as-seguras>. Tambien te recomendamos, si no lo has hecho todavia, activar la autenticacion de dos factores (2FA):
 <https://www.autistici.org/docs/2FA>."
-
-
-### Servidor administrado x Servidor propio
-En el primero hay que confiar en una empresa o colectiva o grupo que maneja la estructura para ti, ofreciendo los "servicios" listos para uso y haciendo la manutención.
-
-En el segundo - servidor propio - tu eres la responsable por hacer todo el trabajo de administración de la estructura. En este caso, Vedetas, Kéfir y Cl4ndestinas son servidoras con administración propia, pero en el caso de Vedetas y Cl4ndestina las máquinas están en otras partes del mundo y son manejadas por otras personas. Por eso es importante elegir bien donde está la máquina o las máquinas y cual es la posición política de la gente que maneja el hardware.
 
 
 ### Proyectos activistas x Comerciales
