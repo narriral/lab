@@ -72,7 +72,7 @@ _Fuente: F.A.Q del A/I - Autistici Inventati Colectivo_
 
 
 
-#### Tampoco los servicios comerciales funcionan siempre sin fallas! :p
+#### <span style="color:red"> Tampoco los servicios comerciales funcionan siempre sin fallas! :p </span>
 
 ↓↓↓
 
