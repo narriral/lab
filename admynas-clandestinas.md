@@ -82,9 +82,11 @@ _Fuente: F.A.Q del A/I - Autistici Inventati Colectivo_
 
 ### Cuando elegimos un servicio activista:
 
-- Incentivamos la creación de más proyectos;
-- Trabajamos con gente que está involucrada en procesos políticos como los nuestros;
-- Intercambiamos conocimientos y tenemos un tipo de soporte más amigable - no nos están previendo **servicios** y nosotras no somos **consumidoras**.
+
+- Incentivamos y confiamos en más mujeres en la construción de la internet.
+- Incentivamos la creación de más proyectos y el crescimiento del ecosistema de servidoras no-comerciales;
+- Trabajamos con gente que está involucrada en procesos políticos similares a los nuestros;
+- Salimos - _o tenemos la posibilidad de salir_ - de la relación servicio/consumidora y aprendemos y construimos juntas el espacio que habitamos en internet.
 
 
 
@@ -95,4 +97,5 @@ Proceso de nuestra reunión de planes, conceptos y sueños ;)
 ![](https://i.imgur.com/1OCGOcC.jpg)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a5/Dona_Ilda_Lameu.png)
+_Ilda do facão
 
