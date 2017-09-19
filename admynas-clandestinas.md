@@ -15,7 +15,7 @@ Creemos que hay pocas iniciativas en la región y que podemos colaborar más con
 
 
 
-# Servidoras
+# Un poco sobre servidoras
 
 ![](https://media0.giphy.com/media/l41m1CuaT5Oy624Ra/giphy.gif) 
 
@@ -48,6 +48,7 @@ En el segundo - servidor propio - tu eres la responsable por hacer todo el traba
 Ni siempre hay una forma de reaccionar inmediatamente o se conoce lo que pasó de mal integralmente, pero se puede tomar medidas para mitigar que se dañe más la estructura.
 
 
+
 ### El caso reciente del Autistici:
 >"Ayer, jueves 14 de Septiembre, hemos descubierto hace unos dias que una cuenta de administracion de nuestra infraestructura habia sido violada. En cuanto nos hemos dado cuenta hemos empezado a trabajar para resolver el problema. Hemos tomados las medidas de mitigacion necesarias y hemos puesto en seguridad las maquinas. Estamos todavia analizando los logs y reinstalando la infraestructura.
  
@@ -69,13 +70,13 @@ Administrar este proyecto lleva tiempo, pero no es como un trabajo (no nos pagan
 
 Fuente: F.A.Q del A/I - Autistici Inventati Colectivo
 
-
+-
 
 **Tampoco los servicios comerciales funcionan siempre sin fallas! :p**
 
 ![](https://i.imgur.com/daf5ISL.png)
 
-
+-
 
 Cuando elegimos un servicio activista:
 - Incentivamos la creación de más proyectos;
